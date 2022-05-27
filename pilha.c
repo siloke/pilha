@@ -1,5 +1,4 @@
 //Mapa Estrutura de Dados I
-//Lucas Vidal
 
 #include <stdio.h>
 #include <stdlib.h>
